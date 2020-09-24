@@ -12,5 +12,5 @@ If you don't want to bother with Git and installing all the necessary Python lib
 - Go to "File" -> "Open notebook" -> "GitHub" tab
 - Enter the URL of this repo in the search field: "https://github.com/tavisualcomputing/viscomp2020"
 - Click on the notebook you want to use.
-- You then need to import all the additional files in the project: on the left pannel, go to "Files" and click on the import icon. Import all the images and videos from this GitHub repository that are next to the exercise notebook (e.g. for exercise 2, import bluescreen.avi, jugglingBG.avi, jugglingTest.avi and mask.bmg).
+- You then need to import all the additional files in the project: on the left pannel, go to "Files" and click on the import icon. Import all the images and videos from this GitHub repository that are next to the exercise notebook (e.g. for exercise 2, import bluescreen.avi, jugglingBG.avi, jugglingTest.avi and mask.bmg). For this, you first need to download the GitHub repository and all its files on your laptop, then reupload all the files on Colab.
 - You can then directly run the notebook in your navigator.
